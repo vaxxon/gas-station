@@ -4,9 +4,7 @@
 
 ## Overview
 
-A MySQL database that stores information about synthesizer modules. Inspired by [ModularGrid.net](https://modulargrid.net).  See this project on [Github](https://github.com).
-
-![GAS Station diagram](/GAS Station - Implementation.png)
+A MySQL database that stores information about synthesizer modules. Inspired by [ModularGrid.net](https://modulargrid.net). View [diagram here](./GAS%20Station%20-%20Implementation.png).
 
 ## Details
 
